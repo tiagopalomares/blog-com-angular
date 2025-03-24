@@ -38,4 +38,5 @@ A aplicação estará disponível em http://localhost:4200/.
 
 🎯 Objetivo
 
-Este projeto tem como objetivo demonstrar como construir um blog dinâmico utilizando Angular, aplicando conceitos fundamentais como componentes, serviços, roteamento e integração com APIs.
+Este projeto tem como objetivo demonstrar como construir um blog dinâmico utilizando Angular,
+aplicando conceitos fundamentais como componentes, serviços, roteamento e integração com APIs.
