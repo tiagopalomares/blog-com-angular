@@ -24,3 +24,18 @@ Este projeto é uma aplicação de blog desenvolvida utilizando **Angular**, per
 ```sh
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 cd nome-do-repositorio
+🔹 2️⃣ Instalar Dependências
+sh
+Copiar
+Editar
+npm install
+🔹 3️⃣ Rodar o Servidor Angular
+sh
+Copiar
+Editar
+ng serve
+A aplicação estará disponível em http://localhost:4200/.
+
+🎯 Objetivo
+
+Este projeto tem como objetivo demonstrar como construir um blog dinâmico utilizando Angular, aplicando conceitos fundamentais como componentes, serviços, roteamento e integração com APIs.
